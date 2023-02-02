@@ -1,11 +1,11 @@
-# SS-smmurray2
+# OOP-smmurray2
 
 | Name | Object Oriented Programming |
 |:---|:---|
 | **Course** | CSCI375 - Object Oriented Programming |
 | **Section** | ???? |
 | **Semester** | Spring 2023 |
-| **Student** | Sara Murray (again?) |
+| **Student** | Sara Murray |
 | **Mav Username**            | smmurray2 |
 | **GitHub Username**         | nestiio |
 | **Repository**          | https://github.com/nestiio/OOP-smmurray2 |
