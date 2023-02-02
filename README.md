@@ -8,7 +8,7 @@
 | **Student** | Sara Murray (again?) |
 | **Mav Username**            | smmurray2 |
 | **GitHub Username**         | nestiio |
-| **Repository**          | https://github.com/nestiio/SS-smmurray2 |
+| **Repository**          | https://github.com/nestiio/OOP-smmurray2 |
 
 ## Assignments
 
