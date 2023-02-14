@@ -23,3 +23,15 @@
 | Location | https://github.com/nestiio/OOP-smmurray2/assignment1 |
 | Self Grade | 100/100 |
 | Notes | completed all the requirements. |
+
+### Assignment #2
+
+| Name | Assignment #2 |
+| :--- | :--- |
+| Name | Python Review |
+| Description | Screenshots of first and final quiz results |
+| Due Date | 13-Feb-23 |
+| Status | Done |
+| Location | https://github.com/nestiio/OOP-smmurray2/assignment2 |
+| Self Grade | 100/100 |
+| Notes | completed all the requirements. |
