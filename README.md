@@ -35,3 +35,15 @@
 | Location | https://github.com/nestiio/OOP-smmurray2/assignment2 |
 | Self Grade | 100/100 |
 | Notes | completed all the requirements. |
+
+### Assignment #2
+
+| Name | Assignment #2 |
+| :--- | :--- |
+| Name | Object Oriented Design |
+| Description | Solved the convex polygon Kattis problem and learned how to use tools such as mypy, uml, and pdoc. |
+| Due Date | 13-Feb-28 |
+| Status | Done |
+| Location | https://github.com/nestiio/OOP-smmurray2/tree/main/assignment3/polygon |
+| Self Grade | 100/100 |
+| Notes | completed all the requirements. |
