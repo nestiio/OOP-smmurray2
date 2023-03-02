@@ -1,0 +1,12 @@
+@startuml
+scale 2
+title "UML Class Diagram"
+class Point {
+	-__x: int
+	-__y: int
+	+setX(): None
+	+getX(): int
+	+setY(): None
+	+getY(): int
+}
+@enduml
