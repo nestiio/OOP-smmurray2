@@ -36,14 +36,26 @@
 | Self Grade | 100/100 |
 | Notes | completed all the requirements. |
 
-### Assignment #2
+### Assignment #3
 
-| Name | Assignment #2 |
+| Name | Assignment #3 |
 | :--- | :--- |
 | Name | Object Oriented Design |
 | Description | Solved the convex polygon Kattis problem and learned how to use tools such as mypy, uml, and pdoc. |
-| Due Date | 13-Feb-28 |
+| Due Date | 28-Feb-23 |
 | Status | Done |
 | Location | https://github.com/nestiio/OOP-smmurray2/tree/main/assignment3/polygon |
+| Self Grade | 100/100 |
+| Notes | completed all the requirements. |
+
+### Assignment #4
+
+| Name | Assignment #4 |
+| :--- | :--- |
+| Name | Unit Testing |
+| Description | Solved the morse code palindrome Kattis problem and tried using the unittest library. |
+| Due Date | 8-March-23
+| Status | Done |
+| Location | https://github.com/nestiio/OOP-smmurray2/tree/main/assignment4/unittesting/morse |
 | Self Grade | 100/100 |
 | Notes | completed all the requirements. |
