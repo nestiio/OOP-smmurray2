@@ -1,0 +1,11 @@
+@startuml
+scale 2
+title "UML Class Diagram"
+class Morse {
+	-__text: Text
+	-__code: str
+	+setCode(): None
+	+getCode(): str
+	+isPalindrome(): None
+}
+@enduml
