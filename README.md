@@ -59,3 +59,17 @@
 | Location | https://github.com/nestiio/OOP-smmurray2/tree/main/assignment4/unittesting/morse |
 | Self Grade | 100/100 |
 | Notes | completed all the requirements. |
+
+### Assignment #5 (Unfinished)
+
+### Assignment #6
+
+| Name | Assignment #6 |
+| :--- | :--- |
+| Name | OOD And Mixed Fractions |
+| Description | Solved the Mixed Fractions Kattis problem and tried using the unittest library. |
+| Due Date | 29-March-23
+| Status | Done |
+| Location | https://github.com/nestiio/OOP-smmurray2/tree/main/assignment6/fractions |
+| Self Grade | 85/100 |
+| Notes | Haven't been able to get the mocking/patching tests to work (which is why this was late, didnt want to push until those were done), also getting an error on one of my UML diagrams that I didnt have time to fight, but completed all other requirements. |
