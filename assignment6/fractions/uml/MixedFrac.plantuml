@@ -1,0 +1,14 @@
+@startuml
+scale 2
+title "UML Class Diagram"
+class MixedFrac {
+	-__fraction: Frac
+    -__wholeNumber: int
+	+setWholeNumber(): None
+	+getWholeNumber(): int
+	+setFrac(): None
+    +getFrac(): Frac
+    +calculateWholeNumber(): None
+    +printMixedFrac(): None
+}
+@enduml

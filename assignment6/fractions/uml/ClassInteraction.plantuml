@@ -1,0 +1,4 @@
+@startuml
+title UML class interaction
+MixedFrac - Frac: Has one >
+@enduml
