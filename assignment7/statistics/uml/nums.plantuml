@@ -1,0 +1,12 @@
+@startuml
+scale 2
+title "UML Class Diagram"
+class Nums {
+	-__numNumbers: int
+	-__number: List[int]
+	+setNumNumbers(): None
+	+setNumbers(): None
+	+getNumNumbers(): List[int]
+	+getNumbers(): List[int]
+}
+@enduml
