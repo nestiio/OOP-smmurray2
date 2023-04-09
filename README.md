@@ -81,7 +81,7 @@
 | Name | OOD and Statistics |
 | Description | Solved the Statistics Kattis problem. |
 | Due Date | 6-April-23
-| Status | ALMOST Done but I'll live |
+| Status | Done |
 | Location | https://github.com/nestiio/OOP-smmurray2/tree/main/assignment7/statistics |
-| Self Grade | 85/100 |
-| Notes | Unit tests still need to be written, currently debugging hypothesis tests. Had to reinstall my ubuntu wsl instance before this and the permissions are all messed up, don't have time to fight with it right now. Will fix when I get home from work if it's not already graded :') Apologies..... |
+| Self Grade | 95/100 |
+| Notes | Unit tests and stuff done! Everything should be complete to the best of my ability now. Wasn't able to figure out the issue I'm having with UML above where it doesn't want to generate the interacting UML diagram. |
