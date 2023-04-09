@@ -74,10 +74,16 @@ class Stats(Nums):
 		"""
 		Calculates and returns min
 		"""
-		min = self.__nums.getNumbers()[0]
-		for i in range(self.__nums.getNumNumbers()):
-			if min > self.__nums.getNumbers()[i]:
-				min = self.__nums.getNumbers()[i]
+		numbers = self.__nums.getNumbers()
+
+		if (len(numbers) != 0):
+			min = numbers[0]
+		else:
+			min = 0
+		
+		for i in numbers:
+			if min > i:
+				min = i
 
 		return min
 	
@@ -85,10 +91,16 @@ class Stats(Nums):
 		"""
 		Calculates and returns max
 		"""
-		max = self.__nums.getNumbers()[0]
-		for i in range(self.__nums.getNumNumbers()):
-			if max < self.__nums.getNumbers()[i]:
-				max = self.__nums.getNumbers()[i]
+		numbers = self.__nums.getNumbers()
+
+		if (len(numbers) != 0):
+			max = numbers[0]
+		else:
+			max = 0
+		
+		for i in numbers:
+			if max < i:
+				max = i
 
 		return max
 
