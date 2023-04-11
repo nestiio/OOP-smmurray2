@@ -84,4 +84,4 @@
 | Status | Done |
 | Location | https://github.com/nestiio/OOP-smmurray2/tree/main/assignment7/statistics |
 | Self Grade | 95/100 |
-| Notes | Unit tests and stuff done! Everything should be complete to the best of my ability now. Wasn't able to figure out the issue I'm having with UML above where it doesn't want to generate the interacting UML diagram. |
+| Notes | Unit tests and stuff done! Everything should be complete to the best of my ability now. Wasn't able to figure out the issue I'm having with UML like in the previous assignment where it doesn't want to generate the interacting UML diagram. |
