@@ -85,3 +85,15 @@
 | Location | https://github.com/nestiio/OOP-smmurray2/tree/main/assignment7/statistics |
 | Self Grade | 95/100 |
 | Notes | Unit tests and stuff done! Everything should be complete to the best of my ability now. Wasn't able to figure out the issue I'm having with UML like in the previous assignment where it doesn't want to generate the interacting UML diagram. |
+
+### Assignment #8
+
+| Name | Assignment #8 |
+| :--- | :--- |
+| Name | OOD and ABC Overloading |
+| Description | Solved the Cup Stacking Kattis problem. |
+| Due Date | 13-April-23
+| Status | Done |
+| Location | https://github.com/nestiio/OOP-smmurray2/tree/main/assignment8/abstract |
+| Self Grade | 100/100 |
+| Notes | All requirements completed to the best of my knowledge. Once again for the class interaction diagram, I absolutely just cannot get it to work properly. The dot file is in the correct forlder, I've updated my paths, and basically tried everything I could think of and find online to try to get it to work and it still wont so it so! I really don't know what else to say about that oneg. |
