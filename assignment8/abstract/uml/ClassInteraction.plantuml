@@ -1,0 +1,4 @@
+@startuml
+title UML class interaction
+CupDiameter - KattisCup: Inherits abstract class >
+@enduml

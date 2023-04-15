@@ -1,0 +1,14 @@
+@startuml
+scale 2
+title "UML Class Diagram"
+class CupList {
+	-__data: List[Union[CupDiameter, CupRadius]]
+	+__getitem__(): Union[CupDiameter, CupRadius]
+	+__setitem__(): None
+	+__delitem__(): None
+	+__len__(): int
+	+insert(): None
+	+append(): None
+	+sort(): None
+}
+@enduml
