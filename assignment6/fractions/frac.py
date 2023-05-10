@@ -80,7 +80,6 @@ class MixedFrac(Frac):
         """
         Print function for the fraction
         """
-        print(f'{self.__wholeNumber} ', end="")
-        self.__fraction.printFrac()
+        print(f'{self.__wholeNumber} {self.__fraction.getNumerator()} / {self.__fraction.getDenominator()}')
 
 

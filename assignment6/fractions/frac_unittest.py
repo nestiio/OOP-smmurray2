@@ -7,34 +7,38 @@ class UnitTest(unittest.TestCase):
 	"""
 	Unit Tests
 	"""
-	@mock.patch('builtins.input', return_value='27 12')
-	def test1(self, input): 
+	@mock.patch('builtins.input', return_value='2460000 98400')
+	def test1(self, mocked_input): 
 		expected_output = "25 0 / 98400"
-		numerator, denominator = map(int, input.split())
+		mocked_input = input()
+		splitInput = mocked_input.split()
+		numerator = int(splitInput[0])
+		denominator = int(splitInput[1])
 		
-		frac = Frac(numerator, denominator)
-		mixedFrac = MixedFrac(frac)
-		mixedFrac.calculateWholeNumber()
-		mixedFrac.printMixedFrac()
-	
-	@mock.patch('builtins.input', lambda _: '27 12')
-	def test2(self, input):
-		numerator, denominator = map(int, input.split())
 		frac = Frac(numerator, denominator)
 		mixedFrac = MixedFrac(frac)
 		mixedFrac.calculateWholeNumber()
 
 		with mock.patch('builtins.print') as mocked_print:
 			mixedFrac.printMixedFrac()
-			mocked_print.assert_called_with('2 ', '3 / 12')
+			mocked_print.assert_called_with(expected_output)
 	
-	def test3(self):
-		somethingelse = 365
+	@mock.patch('builtins.input', return_value='27 12')
+	def test2(self, input):
+		expected_output = "2 3 / 12"
+		mocked_input = input()
+		splitInput = mocked_input.split()
+		numerator = int(splitInput[0])
+		denominator = int(splitInput[1])
+		
+		frac = Frac(numerator, denominator)
+		mixedFrac = MixedFrac(frac)
+		mixedFrac.calculateWholeNumber()
 
-def main():
-	test = UnitTest()
-	test.test1()
-	test.test2()
+		with mock.patch('builtins.print') as mocked_print:
+			mixedFrac.printMixedFrac()
+			mocked_print.assert_called_with(expected_output)
+
 
 
 if __name__ == "__main__":

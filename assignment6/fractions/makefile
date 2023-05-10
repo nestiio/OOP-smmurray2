@@ -29,7 +29,7 @@ typecheck:
 create_uml:
 	$(PLANTUML) uml/Frac.plantuml
 	$(PLANTUML) uml/MixedFrac.plantuml
-	$(PLANTUML) uml/ClassInteraction.plantuml
+	#$(PLANTUML) uml/ClassInteraction.plantuml
 
 	@echo "UML diagrams created and saved."
 
@@ -37,7 +37,6 @@ create_doc_dir:
 	@mkdir -p $(DOCS)
 
 create_documentation: create_doc_dir
-	pdoc --force -o docs main.py frac.py
-	pdoc --force --html -o docs main.py frac.py
+	pdoc -o docs main.py frac.py
 
 	@echo "HTML documentation created and saved."
