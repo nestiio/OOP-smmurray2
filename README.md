@@ -68,7 +68,7 @@
 | Description | Solved the Title Cost Kattis problem and tried using hypothesis testing and mocking. |
 | Due Date | 21-March-23
 | Status | Done |
-| Location | https://github.com/nestiio/OOP-smmurray2/tree/main/assignment6/fractions |
+| Location | https://github.com/nestiio/OOP-smmurray2/tree/main/assignment5/hypothesis |
 | Self Grade | 90/100 |
 | Notes | Completed all requirements. -10 points for being late. |
 
