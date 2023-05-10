@@ -1,0 +1,12 @@
+@startuml
+scale 2
+title "UML Class Diagram"
+class TitleCost {
+	-__title: str
+	-__cost: float
+	+setTitle: None
+	+getTitle: str
+	+setCost: None
+	+getCost: Float
+}
+@enduml

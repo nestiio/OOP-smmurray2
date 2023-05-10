@@ -1,0 +1,4 @@
+@startuml
+title UML class interaction
+ComparisonClass - TitleCost: Has one >
+@enduml

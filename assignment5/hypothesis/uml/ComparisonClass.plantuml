@@ -1,0 +1,13 @@
+@startuml
+scale 2
+title "UML Class Diagram"
+class ComparisonClass {
+	-__titlecost: TitleCost
+	-__cap: float
+	+setTitleCost: None
+	+getTitleCost: TitleCost
+	+setCap: None
+	+getCap: float
+	+getMin: float
+}
+@enduml
