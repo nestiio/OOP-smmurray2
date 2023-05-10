@@ -60,7 +60,18 @@
 | Self Grade | 100/100 |
 | Notes | completed all the requirements. |
 
-### Assignment #5 (Unfinished)
+### Assignment #5
+
+| Name | Assignment #6 |
+| :--- | :--- |
+| Name | Hypothesis Testing |
+| Description | Solved the Title Cost Kattis problem and tried using hypothesis testing and mocking. |
+| Due Date | 21-March-23
+| Status | Done |
+| Location | https://github.com/nestiio/OOP-smmurray2/tree/main/assignment6/fractions |
+| Self Grade | 90/100 |
+| Notes | Completed all requirements. -10 points for being late. |
+
 
 ### Assignment #6
 
@@ -71,8 +82,8 @@
 | Due Date | 29-March-23
 | Status | Done |
 | Location | https://github.com/nestiio/OOP-smmurray2/tree/main/assignment6/fractions |
-| Self Grade | 85/100 |
-| Notes | Haven't been able to get the mocking/patching tests to work (which is why this was late, didnt want to push until those were done), also getting an error on one of my UML diagrams that I didnt have time to fight, but completed all other requirements. |
+| Self Grade | 90/100 |
+| Notes | Completed all requirements. -10 points for being late. |
 
 ### Assignment #7
 
